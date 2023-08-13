@@ -15,7 +15,7 @@ const Logout = ({ setIsAuth }) => {
   };
   return (
     <div>
-      <p>ログアウトする</p>
+      <p>ログアウト</p>
       <button onClick={logout}>Googleでログアウト</button>
     </div>
   );
