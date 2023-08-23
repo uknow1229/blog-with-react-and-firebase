@@ -1,7 +1,11 @@
-<img width="1574" alt="スクリーンショット 2023-08-14 9 45 37" src="https://github.com/uknow1229/blog-with-react-and-firebase/assets/86299044/ba5fe602-8c85-444c-944d-26470bacaa29">
-<img width="1573" alt="スクリーンショット 2023-08-14 9 47 21" src="https://github.com/uknow1229/blog-with-react-and-firebase/assets/86299044/cdb0d064-2908-4e1a-bdb1-c349b20151b1">
+<img width="1608" alt="スクリーンショット 2023-08-23 15 35 04" src="https://github.com/uknow1229/blog-with-react-and-firebase/assets/86299044/61591939-9ade-4b8e-9a2a-de9d14faf2aa">
 
-<img width="1566" alt="スクリーンショット 2023-08-14 9 46 38" src="https://github.com/uknow1229/blog-with-react-and-firebase/assets/86299044/5ee191aa-04c3-407a-baa8-9b8a98d8ee23">
+<img width="1606" alt="スクリーンショット 2023-08-23 15 33 36" src="https://github.com/uknow1229/blog-with-react-and-firebase/assets/86299044/26d2ed10-1b13-423e-998b-afb50de9a256">
+
+<img width="1599" alt="スクリーンショット 2023-08-23 15 37 42" src="https://github.com/uknow1229/blog-with-react-and-firebase/assets/86299044/07bf50e8-ce96-4159-873f-28ba30ebfbc5">
+
+<img width="1605" alt="スクリーンショット 2023-08-23 15 34 00" src="https://github.com/uknow1229/blog-with-react-and-firebase/assets/86299044/25096890-7481-4066-8ea8-9bc40e404001">
+
 
 # Getting Started with Create React App
 
